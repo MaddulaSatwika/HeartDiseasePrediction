@@ -84,7 +84,4 @@ Data Source: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 ## Future improvements
   1. Integrate with a user-friendly web interface.
   2.Test with larger and more diverse datasets.
-  3.Experiment with deep learning models.
-
-
-"# HeartDiseasePrediction" 
+  3.Experiment with deep learning models. 
